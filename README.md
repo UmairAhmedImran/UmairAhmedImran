@@ -42,7 +42,16 @@
 
 ---
 
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UmairAhmedImran&theme=buddhism&no-frame=true&no-bg=true&margin-w=4" alt="UmairAhmedImran" />
+</div>
+
 ### 📊 GitHub Stats
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UmairAhmedImran&show_icons=true&theme=radical" alt="Umair's GitHub stats" />
